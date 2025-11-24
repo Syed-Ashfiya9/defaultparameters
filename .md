@@ -1,0 +1,10 @@
+# Arrow Function with Default Parameters
+
+### Problem Statement
+Rewrite the given function using arrow function syntax and include default parameters.
+
+### Original Function
+```js
+function multiply(a, b) {
+  return a * b;
+}
